@@ -7,6 +7,14 @@
     "start": "nodemon ./src/index.js",
     "test": "node ./tests/test.js | tap-spec"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcmunder/bitcoin-de-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mcmunder/bitcoin-de-api/issues"
+  },
+  "homepage": "https://github.com/mcmunder/bitcoin-de-api#readme",
   "keywords": [
     "bitcoin.de",
     "api"
