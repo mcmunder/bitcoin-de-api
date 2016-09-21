@@ -2,6 +2,8 @@
 
 A (very) simple javascript wrapper for the (very) simple [bitcoin.de](https://www.bitcoin.de/de/api/marketplace) api.
 
+[![NPM](https://nodei.co/npm/bitcoin-de-api.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/bitcoin-de-api/)
+
 ## Install
 `npm install --save bitcoin-de-api`
 
