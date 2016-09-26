@@ -44,7 +44,7 @@ api.getTrades(apiKey, since) // since parameter is optional
 | :--------------: | :-----------: |
 | `getTrades()`    | promise       |
 | `getOrderBook()` | promise       |
-| `getRates()`     | promise       |
+| `getRate()`     | promise       |
 
 ## Copyright and license
 
