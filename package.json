@@ -1,6 +1,6 @@
 {
   "name": "bitcoin-de-api",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A (very) simple javascript wrapper for the (very) simple bitcoin.de api",
   "main": "./src/index.js",
   "scripts": {
