@@ -1,5 +1,7 @@
 # bitcoin-de-api
 
+[![Join the chat at https://gitter.im/mcmunder/bitcoin-de-api](https://badges.gitter.im/mcmunder/bitcoin-de-api.svg)](https://gitter.im/mcmunder/bitcoin-de-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A (very) simple javascript wrapper for the (very) simple [bitcoin.de](https://www.bitcoin.de/de/api/marketplace) api.
 
 [![NPM](https://nodei.co/npm/bitcoin-de-api.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/bitcoin-de-api/)
