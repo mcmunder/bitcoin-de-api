@@ -1,6 +1,6 @@
 # bitcoin-de-api
 
-A (very) simple javascript wrapper for the (very) simple [bitcoin.de](https://www.bitcoin.de/de/api/marketplace) api.
+A (very) simple Node.js wrapper for the (very) simple [bitcoin.de](https://www.bitcoin.de/de/api/marketplace) api.
 
 [![NPM](https://nodei.co/npm/bitcoin-de-api.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/bitcoin-de-api/)
 
@@ -19,7 +19,7 @@ Create a .env file at the root of your project and add your API_KEY:
 API_KEY=your_api_key_goes_here_without_quotes
 ```
 
-Add .env to your .gitignore file! It's a secret, right?! See [dotenv](https://www.npmjs.com/package/dotenv) if you are not sure what I am talking about.
+Add .env to your .gitignore file! Don't publish your secrets! See [dotenv](https://www.npmjs.com/package/dotenv) for more information.
 
 ```js
 const api = require('bitcoin-de-api')
